@@ -14,8 +14,8 @@
 ```
 烏丸夷川拉翁旅館 → 奈良 → 大阪→Rapanzi-rudoutonbori 603(our room)
 ```
-:japanese_castle : 奈良公園(餵小鹿)、春日大社、奈良商店街  
-:sushi : 中谷堂搗麻糬 
+:japanese_castle: 奈良公園(餵小鹿)、春日大社、奈良商店街  
+:sushi: 中谷堂搗麻糬 
 ## Day 4
 ```
 天守閣 → 大阪城櫓 → 通天閣 → 天王寺動物園 → 四天王寺 → 阿倍野展望台
