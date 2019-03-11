@@ -38,4 +38,12 @@
 :round_pushpin: 北野異人館:keycap_ten:   
 :round_pushpin: 南京町:four:   
 :round_pushpin: 神戶港塔:one:   
-  
+## Day 7
+```
+近鐵日本橋 → 西九条站 → JR櫻島線(夢咲線) → 環球城
+```
+:doughnut: 6:30出門(先準備好食物)
+## Day 8
+```
+地鐵日本橋 → 難波 → 臨空城Outlet → 關西機場
+```
