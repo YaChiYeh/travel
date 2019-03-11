@@ -27,14 +27,14 @@
 ```
 黑門市場 → 大阪生活今昔館(10:00開門) 
 ```
-:monorail: 大阪生活今昔館-阪急‧地鐵各線天神橋筋六丁目3號出口出站
-:warning: 大阪生活今昔館10:00開門
+:monorail: 大阪生活今昔館-阪急‧地鐵各線天神橋筋六丁目3號出口出站 
+:warning: 大阪生活今昔館10:00開門 
 ## Day 6
 ```
 日本橋 → 難波 → 神戶三宮駅(三宮地區)
 ```
-:round_pushpin: 地下鐵三宮站:seven:
-:round_pushpin: 北野異人館:keycap_ten:
-:round_pushpin: 南京町:four:
-:round_pushpin: 神戶港塔:one:
-:busstop: City Loop 一日券(￥660)
+:round_pushpin: 地下鐵三宮站:seven: 
+:round_pushpin: 北野異人館:keycap_ten: 
+:round_pushpin: 南京町:four: 
+:round_pushpin: 神戶港塔:one: 
+:busstop: City Loop 一日券(￥660) 
