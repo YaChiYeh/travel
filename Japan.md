@@ -1,3 +1,4 @@
+![JAPAN TRAVEL](https://github.com/YaChiYeh/travel/blob/master/JAPAN.jpg)
 # 關西自由行
 ## Day 1
 ```
