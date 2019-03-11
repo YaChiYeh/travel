@@ -1,4 +1,4 @@
-![JAPAN TRAVEL](https://github.com/YaChiYeh/travel/blob/master/JAPAN.jpg)
+
 # 關西自由行
 ## Day 1
 ```
@@ -16,7 +16,8 @@
 烏丸夷川拉翁旅館 → 奈良 → 大阪→Rapanzi-rudoutonbori 603(our room)
 ```
 :japanese_castle: 奈良公園(餵小鹿)、春日大社、奈良商店街  
-:sushi: 中谷堂搗麻糬 
+:sushi: 中谷堂搗麻糬
+![奈良地圖](https://github.com/YaChiYeh/travel/blob/master/%E5%A5%88%E8%89%AF.png)
 ## Day 4
 ```
 天守閣 → 大阪城櫓 → 通天閣 → 天王寺動物園 → 四天王寺 → 阿倍野展望台
@@ -69,3 +70,5 @@
 * 奈良  
  - 春日大社(門票¥500)  
  - 東大寺(門票¥500，營業時間07:30~17:30)  
+ ## 大阪地鐵圖
+ ![大阪地鐵圖](https://github.com/YaChiYeh/travel/blob/master/%E5%A4%A7%E9%98%AA%E5%9C%B0%E9%90%B5.jpg)
