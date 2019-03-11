@@ -33,8 +33,9 @@
 ```
 日本橋 → 難波 → 神戶三宮駅(三宮地區)
 ```
+:busstop: City Loop 一日券(￥660)  
 :round_pushpin: 地下鐵三宮站:seven:  
 :round_pushpin: 北野異人館:keycap_ten:   
 :round_pushpin: 南京町:four:   
 :round_pushpin: 神戶港塔:one:   
-:busstop: City Loop 一日券(￥660)    
+  
