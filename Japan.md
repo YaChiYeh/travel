@@ -23,3 +23,18 @@
 :monorail: 天守閣-地鐵各線谷町四丁目站1B‧9號出口  
 :monorail: 通天閣-地鐵堺筋線惠美須町站3號出口出站向東南步行約3分鐘   
 :monorail: 四天王寺-地鐵谷町線四天王寺前夕陽丘站4號出口出站向南步行約5分鐘
+## Day 5 
+```
+黑門市場 → 大阪生活今昔館(10:00開門) 
+```
+:monorail: 大阪生活今昔館-阪急‧地鐵各線天神橋筋六丁目3號出口出站
+:warning: 大阪生活今昔館10:00開門
+## Day 6
+```
+日本橋 → 難波 → 神戶三宮駅(三宮地區)
+```
+:round_pushpin: 地下鐵三宮站:seven:
+:round_pushpin: 北野異人館:keycap_ten:
+:round_pushpin: 南京町:four:
+:round_pushpin: 神戶港塔:one:
+:busstop: City Loop 一日券(￥660)
