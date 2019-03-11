@@ -48,14 +48,14 @@
 地鐵日本橋 → 難波 → 臨空城Outlet → 關西機場
 ```
 ## 交通
-[周遊卡](https://www.osaka-info.jp/osp/cht/)   
-[京都公車](http://www.city.kyoto.lg.jp/kotsu/cmsfiles/contents/0000019/19770/0919_map.pdf)  
-[近鐵](http://www.kintetsu.co.jp/foreign/chinese-han/)  
-[JR票價查詢](https://transit.yahoo.co.jp/search/result?flatlon=%2C%2C26104&from=%E8%A5%BF%E4%B9%9D%E6%9D%A1&tlatlon=%2C%2C29343&to=%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3&via=&via=&via=&y=2017&m=07&d=03&hh=06&m2=7&m1=0&type=1&ticket=ic&al=1&shin=1&ex=1&hb=1&lb=1&sr=1&s=0&expkind=1&ws=3&kw=%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3)  
-[地鐵票價查詢](http://kensaku.kotsu.city.osaka.lg.jp/dia/route/web/exp.cgi?val_only=1)  
+* [周遊卡](https://www.osaka-info.jp/osp/cht/)   
+* [京都公車](http://www.city.kyoto.lg.jp/kotsu/cmsfiles/contents/0000019/19770/0919_map.pdf)  
+* [近鐵](http://www.kintetsu.co.jp/foreign/chinese-han/)  
+* [JR票價查詢](https://transit.yahoo.co.jp/search/result?flatlon=%2C%2C26104&from=%E8%A5%BF%E4%B9%9D%E6%9D%A1&tlatlon=%2C%2C29343&to=%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3&via=&via=&via=&y=2017&m=07&d=03&hh=06&m2=7&m1=0&type=1&ticket=ic&al=1&shin=1&ex=1&hb=1&lb=1&sr=1&s=0&expkind=1&ws=3&kw=%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B5%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3)  
+* [地鐵票價查詢](http://kensaku.kotsu.city.osaka.lg.jp/dia/route/web/exp.cgi?val_only=1)  
 ## 補充資訊
-[景點地圖](https://www.google.com/maps/d/viewer?mid=16TdP_gE620Afuw6Gvc3ZsZqztdU&ll=35.0720302194675%2C135.8368644005127&z=11)  
-[大阪行程參考](https://drive.google.com/file/d/0B2oCbxL0q8R7ckZQLVQyS2ltMG8/view)  
-[神戶行程參考](https://tw.bring-you.info/kobe)  
-[寺廟票價查詢](http://www.zipangguide.net/travel/sight/kyoto/kiyomizu_temple.html)  
+* [景點地圖](https://www.google.com/maps/d/viewer?mid=16TdP_gE620Afuw6Gvc3ZsZqztdU&ll=35.0720302194675%2C135.8368644005127&z=11)  
+* [大阪行程參考](https://drive.google.com/file/d/0B2oCbxL0q8R7ckZQLVQyS2ltMG8/view)  
+* [神戶行程參考](https://tw.bring-you.info/kobe)  
+* [寺廟票價查詢](http://www.zipangguide.net/travel/sight/kyoto/kiyomizu_temple.html)  
   
